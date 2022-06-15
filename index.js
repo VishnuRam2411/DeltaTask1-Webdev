@@ -1,4 +1,4 @@
-TILE_SIZE = 100;
+TILE_SIZE = 90;
 GRID_SIZE = 4;
 
 grid = document.querySelector('.grid');
